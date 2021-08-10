@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test
 class NetworkSubTest {
     @Test
     fun subParse() {
-        //        val e = "https://raw.fastgit.org/Leon406/Sub/master/sub/share/tr"
+        //        val e = "https://raw.fastgit.org/luohao10001/Sub/master/sub/share/tr"
         //        val e = "https://api.flgwls.com/link/UUDvI5RqtU5ZC098?clash=1r"
         val e = "https://raw.fastgit.org/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-6-13"
         runBlocking {
