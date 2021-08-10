@@ -10,7 +10,7 @@ class NodeCrawler {
     companion object {
         private val nodeInfo = "$ROOT/info.md"
         private val nodeInfoLocal = "$ROOT/info2.md"
-        private const val customInfo = "防失效github.com/Leon406/Sub "
+        private const val customInfo = "防失效github.com/luohao10001/Sub "
         private var subCount = 0
         private var nodeCount = 0
         val REG_AD =
